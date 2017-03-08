@@ -1,0 +1,12 @@
+/Users/changhyun/Projects/Test/Test/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/changhyun/Projects/Test/Test/obj/Debug/Test.App.xaml
+/Users/changhyun/Projects/Test/Test/obj/Debug/Test.TestPage.xaml
+/Users/changhyun/Projects/Test/Test/obj/Debug/Test.App.xaml.g.cs
+/Users/changhyun/Projects/Test/Test/obj/Debug/Test.TestPage.xaml.g.cs
+/Users/changhyun/Projects/Test/Test/bin/Debug/Test.dll.mdb
+/Users/changhyun/Projects/Test/Test/bin/Debug/Test.dll
+/Users/changhyun/Projects/Test/Test/obj/Debug/Test.dll
+/Users/changhyun/Projects/Test/Test/obj/Debug/Test.dll.mdb
+/Users/changhyun/Projects/Test/Test/bin/Debug/Xamarin.Forms.Core.dll
+/Users/changhyun/Projects/Test/Test/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/changhyun/Projects/Test/Test/bin/Debug/Xamarin.Forms.Xaml.dll
