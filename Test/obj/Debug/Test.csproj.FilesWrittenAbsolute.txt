@@ -10,3 +10,16 @@
 /Users/changhyun/Projects/Test/Test/bin/Debug/Xamarin.Forms.Core.dll
 /Users/changhyun/Projects/Test/Test/bin/Debug/Xamarin.Forms.Platform.dll
 /Users/changhyun/Projects/Test/Test/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/changhyun/Desktop/example/Marin/Test/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/changhyun/Desktop/example/Marin/Test/obj/Debug/Test.App.xaml
+/Users/changhyun/Desktop/example/Marin/Test/obj/Debug/Test.TestPage.xaml
+/Users/changhyun/Desktop/example/Marin/Test/obj/Debug/Test.App.xaml.g.cs
+/Users/changhyun/Desktop/example/Marin/Test/obj/Debug/Test.TestPage.xaml.g.cs
+/Users/changhyun/Desktop/example/Marin/Test/obj/Debug/Test.dll
+/Users/changhyun/Desktop/example/Marin/Test/obj/Debug/Test.dll.mdb
+/Users/changhyun/Desktop/example/Marin/Test/bin/Debug/Xamarin.Forms.Core.dll
+/Users/changhyun/Desktop/example/Marin/Test/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/changhyun/Desktop/example/Marin/Test/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/changhyun/Desktop/example/Marin/Test/bin/Debug/Newtonsoft.Json.dll
+/Users/changhyun/Desktop/example/Marin/Test/bin/Debug/Test.dll.mdb
+/Users/changhyun/Desktop/example/Marin/Test/bin/Debug/Test.dll

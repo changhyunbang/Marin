@@ -13,3 +13,15 @@
 /Users/changhyun/Projects/Test/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
 /Users/changhyun/Projects/Test/iOS/bin/iPhoneSimulator/Debug/Test.dll
 /Users/changhyun/Projects/Test/iOS/bin/iPhoneSimulator/Debug/Test.dll.mdb
+/Users/changhyun/Desktop/example/Marin/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/changhyun/Desktop/example/Marin/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/changhyun/Desktop/example/Marin/iOS/bin/iPhoneSimulator/Debug/Test.iOS.exe.mdb
+/Users/changhyun/Desktop/example/Marin/iOS/bin/iPhoneSimulator/Debug/Test.iOS.exe
+/Users/changhyun/Desktop/example/Marin/iOS/obj/iPhoneSimulator/Debug/Test.iOS.exe
+/Users/changhyun/Desktop/example/Marin/iOS/obj/iPhoneSimulator/Debug/Test.iOS.exe.mdb
+/Users/changhyun/Desktop/example/Marin/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/changhyun/Desktop/example/Marin/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/changhyun/Desktop/example/Marin/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/changhyun/Desktop/example/Marin/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/changhyun/Desktop/example/Marin/iOS/bin/iPhoneSimulator/Debug/Test.dll
+/Users/changhyun/Desktop/example/Marin/iOS/bin/iPhoneSimulator/Debug/Test.dll.mdb

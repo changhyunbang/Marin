@@ -1,13 +1,18 @@
 ﻿<Properties StartupConfiguration="{762D1521-AED1-46CF-95A9-491569DFB4B0}|Default">
-  <MonoDevelop.Ide.ItemProperties.Test.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Test.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Resources/Resource.designer.cs">
     <Files>
-      <File FileName="Test/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Test/App.xaml.cs" Line="22" Column="4" />
       <File FileName="Test/TestPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Test/packages.config" Line="4" Column="12" />
-      <File FileName="Droid/MainActivity.cs" Line="19" Column="46" />
+      <File FileName="Test/packages.config" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="25" Column="33" />
       <File FileName="iOS/Main.cs" Line="1" Column="1" />
       <File FileName="iOS/AppDelegate.cs" Line="17" Column="31" />
+      <File FileName="Test/Weather.cs" Line="17" Column="3" />
+      <File FileName="Test/DataService.cs" Line="8" Column="2" />
+      <File FileName="Test/Core.cs" Line="3" Column="1" />
+      <File FileName="Droid/Resources/layout/Main.cs" Line="1" Column="1" />
+      <File FileName="Droid/Resources/Resource.designer.cs" Line="2226" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
